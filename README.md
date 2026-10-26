@@ -2,9 +2,9 @@
 
 **Oregon Quant Group: 5-Week Asset Comparison Project**
 
-**Name:** [FILL IN]
-**My pair:** [FILL IN] vs. [FILL IN]
-**Core question:** [FILL IN: copy it from the project guide]
+**Name:** Peter Dang
+**My pair:** TLT vs. SHY (Long VS. Short Treasuries)
+**Core question:** how are these two things different, and why?
 
 This is a starter template: a folder structure plus one notebook per week, with the deliverables laid out.
 **You write the code and the analysis.** Replace anything marked `[FILL IN]`.
